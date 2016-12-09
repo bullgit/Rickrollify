@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Rick roll every link",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "With that extension every link on every page links to that famous YouTube video.",
+    "description": "The description of the application"
+  }
+}
