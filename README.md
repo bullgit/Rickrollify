@@ -6,7 +6,7 @@ Based on the pioneering work of [rick-js](https://github.com/bullgit/rick-js).
 
 ## Install
 
-Soon available in the [Chrome Webstore](https://chrome.google.com/webstore)
+Available in the [Chrome Webstore](https://chrome.google.com/webstore/detail/rickrollify/gblfceeegehppdokphdikjhdopmfhigd)
 
 ## License
 
